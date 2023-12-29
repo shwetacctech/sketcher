@@ -1,0 +1,10 @@
+D:\C#_Inventor\Inventor_lesson1_c-sharp\lesson1_c-sharp\lesson1_VS2017_CSharp\lesson1_VS2017_CSharp\bin\Debug\lesson1_VS2017_CSharp.exe.config
+D:\C#_Inventor\Inventor_lesson1_c-sharp\lesson1_c-sharp\lesson1_VS2017_CSharp\lesson1_VS2017_CSharp\bin\Debug\lesson1_VS2017_CSharp.exe
+D:\C#_Inventor\Inventor_lesson1_c-sharp\lesson1_c-sharp\lesson1_VS2017_CSharp\lesson1_VS2017_CSharp\bin\Debug\lesson1_VS2017_CSharp.pdb
+D:\C#_Inventor\Inventor_lesson1_c-sharp\lesson1_c-sharp\lesson1_VS2017_CSharp\lesson1_VS2017_CSharp\obj\Debug\lesson1_VS2017_CSharp.csproj.AssemblyReference.cache
+D:\C#_Inventor\Inventor_lesson1_c-sharp\lesson1_c-sharp\lesson1_VS2017_CSharp\lesson1_VS2017_CSharp\obj\Debug\lesson1_VS2017_CSharp.Form1.resources
+D:\C#_Inventor\Inventor_lesson1_c-sharp\lesson1_c-sharp\lesson1_VS2017_CSharp\lesson1_VS2017_CSharp\obj\Debug\lesson1_VS2017_CSharp.Properties.Resources.resources
+D:\C#_Inventor\Inventor_lesson1_c-sharp\lesson1_c-sharp\lesson1_VS2017_CSharp\lesson1_VS2017_CSharp\obj\Debug\lesson1_VS2017_CSharp.csproj.GenerateResource.cache
+D:\C#_Inventor\Inventor_lesson1_c-sharp\lesson1_c-sharp\lesson1_VS2017_CSharp\lesson1_VS2017_CSharp\obj\Debug\lesson1_VS2017_CSharp.csproj.CoreCompileInputs.cache
+D:\C#_Inventor\Inventor_lesson1_c-sharp\lesson1_c-sharp\lesson1_VS2017_CSharp\lesson1_VS2017_CSharp\obj\Debug\lesson1_VS2017_CSharp.exe
+D:\C#_Inventor\Inventor_lesson1_c-sharp\lesson1_c-sharp\lesson1_VS2017_CSharp\lesson1_VS2017_CSharp\obj\Debug\lesson1_VS2017_CSharp.pdb
